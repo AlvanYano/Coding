@@ -17,12 +17,8 @@ print()
 
 for i in range(input_user):
 
-    if i == 0:
+    if i == 0 or i > input_user-2:
         for j in range(input_user-i):
-            print("*", end='')
-
-    elif i > input_user-2:
-        for k in range(input_user-i):
             print("*", end='')
 
     else:

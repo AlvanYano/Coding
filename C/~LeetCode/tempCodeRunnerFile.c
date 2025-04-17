@@ -1,12 +1,7 @@
 char* longestCommonPrefix(char** strs, int strsSize) {
+//     char* prefix = strs[0];
 
-//     for(int i = 0; i<strlen(*strs); i++){
-        
-//         for (size_t j = 0; j < strlen(*strs[i]); j++){
-
-            
-//         }
-        
+//     for (int i = 0; i < sizeof(strs)/sizeof(char); i++){
 
 //     }
 
