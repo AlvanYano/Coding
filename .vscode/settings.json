@@ -49,6 +49,10 @@
         "streambuf": "cpp",
         "text_encoding": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "complex": "cpp",
+        "cstdarg": "cpp",
+        "fstream": "cpp",
+        "sstream": "cpp"
     }
 }
